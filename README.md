@@ -6,14 +6,14 @@
 </p>
 
 <h2 align="left">Languages and Tools</h2>
-<h3 align="left">Items handled during the internship</h3>
+<h3 align="left">Work</h3>
 <p align="left">Frontend</p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind)](https://skillicons.dev)
 
 <p align="left">Backend</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,kotlin,spring,php,laravel,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,kotlin,spring,php,laravel,gcp,postgres,mysql)](https://skillicons.dev)
 
 
 <p align="left">Other</p>
@@ -21,9 +21,9 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,githubactions)](https://skillicons.dev)
 
 
-<h3 align="left">Items handled in hackathons or personal development</h3>
+<h3 align="left">Personal Development</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=go,dart,flutter,nodejs,firebase,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,firebase,aws)](https://skillicons.dev)
 
 
 <!--
