@@ -9,16 +9,16 @@
 <h3 align="left">Work</h3>
 <p align="left">Frontend</p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs)](https://skillicons.dev)
 
 <p align="left">Backend</p>
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,kotlin,spring,php,laravel,gcp,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,kotlin,spring,php,laravel)](https://skillicons.dev)
 
 
 <p align="left">Other</p>
 
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,gcp,postgres,mysql)](https://skillicons.dev)
 
 
 <h3 align="left">Personal Development</h3>
